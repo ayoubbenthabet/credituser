@@ -1,0 +1,12 @@
+content,sentiment
+"This product is amazing!",positive
+"I had a great experience.",positive
+"Absolutely loved it!",positive
+"It was okay, not the best.",neutral
+"I am not satisfied with the service.",negative
+"Terrible experience, I won't come back.",negative
+"Good quality for the price.",positive
+"Just average, nothing special.",neutral
+"Very disappointed with the purchase.",negative
+"Fantastic service, highly recommend!",positive
+
